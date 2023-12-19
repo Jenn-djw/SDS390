@@ -1,0 +1,1 @@
+We use financial data downloaded from Federal Reserve Economic Data. Specifically, we look at and forecast the General Collateral Treasury Repo Rate,  a vital benchmark for cost of borrowing cash using treasury as collateral. One of the most widely used interest rate benchmark in financial markets. 
